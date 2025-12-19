@@ -1,0 +1,1 @@
+# frog-climate-detector
